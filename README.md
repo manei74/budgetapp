@@ -28,8 +28,6 @@ Check out the live version here:
 - **CSS/SASS** – For styling
 - **gh-pages** – For deployment on GitHub Pages
 
-## 📦 Getting Started
-
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) must be installed on your machine.
